@@ -1,0 +1,14 @@
+{
+    "name": "AutoCADcopilot",
+    "version": "1.0.0",
+    "description": "Local AI model based CAD assistant. It can perform CAD task from user input. For e.g., it can draw circle, or pattern, or perform other CAD operations.",
+    "main": "AutoCADcopilot.py",
+    "local_model_path": "C:\\AI_local\\AutoCADcopilot\\model\\Qwen2.5-Coder-14B-Instruct-Uncensored.Q4_K_M.gguf",
+    "scripts": {
+        "start": "python AutoCADcopilot.py",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Suman Kumar ~BHUTUU",
+    "license": "MIT",
+    "github": "https://github.com/BHUTUU/AutoCADcopilot"
+}
